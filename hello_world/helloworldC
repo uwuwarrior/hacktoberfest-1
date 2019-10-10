@@ -1,0 +1,5 @@
+using system;
+
+console.writeline("Hello World!");
+
+// Simple C# Hello World. Try to write it yourself and run it.
